@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LibreriaDLL/LibreriaDLL.csproj" Id="8c03f928-a8ea-4c6f-b158-e75f2240b057" />
+  <Project Path="SistemaPOS/SistemaPOS.csproj" Id="deb6b7d4-aa0d-492a-a549-3ebdcf2d4702" />
+</Solution>
